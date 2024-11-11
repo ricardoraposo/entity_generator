@@ -1,4 +1,6 @@
 
-video:
-
-<iframe src="https://drive.google.com/file/d/1snP0X1rMWEoilG-q4a2edxYnQTcXzC6w/preview" width="640" height="480" allow="autoplay"></iframe>
+<div align="center">
+  <a href="https://youtu.be/4WD5ce7AngA">
+    <img src="https://i9.ytimg.com/vi/4WD5ce7AngA/mq2.jpg?sqp=CKSpyrkG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEUgUShyMA8=&rs=AOn4CLAuiTocCPxLB_p_DiTMqQpe_gmYBA" alt="Watch the video" style="width:100%; max-width:600px;"/>
+  </a>
+</div>
